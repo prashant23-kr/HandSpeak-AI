@@ -7,8 +7,8 @@ __pycache__/
 *.pyc
 
 # Dataset / logs
-*.csv
 Data/
+*.csv
 
 # OS files
 .DS_Store
