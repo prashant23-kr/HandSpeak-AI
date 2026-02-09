@@ -40,6 +40,7 @@ The dataset used for gesture recognition is not included in this repository due 
 3-Improve model accuracy
 4-Deploy as a web or mobile application
 5-Support multiple sign languages
+6-Detect medicine 
 
 👨‍💻 Author:
 Prashant Kumar
