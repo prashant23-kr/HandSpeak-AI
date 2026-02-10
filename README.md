@@ -19,6 +19,7 @@ The goal of this project is to **bridge communication gaps** between hearing-imp
 - **OpenCV**
 - **NumPy**
 - **Machine Learning / Deep Learning**
+- Nureal network
 - **Computer Vision**
 
 ---
